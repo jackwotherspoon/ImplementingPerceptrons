@@ -1,3 +1,4 @@
+#Author: Jack Wotherspoon
 #dependencies as well as matplotlib and sklearn
 import pandas as pd
 import numpy as np
